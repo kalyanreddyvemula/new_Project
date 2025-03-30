@@ -14,7 +14,7 @@ public class App {
         tests.testCase_03();
         tests.testCase_04();
 
-        //tests.closeWindow();
+        tests.closeWindow();
         
     }
 
